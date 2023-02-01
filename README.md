@@ -1,4 +1,4 @@
-#OpenAIAndAWSDataAssistant
+#OpenAIAndAWSDataAssistant#
 
 To get the project up and running, you need to have the following installed:
 
@@ -25,3 +25,4 @@ cd frontend
 npm i
 npm run dev
 ```
+
